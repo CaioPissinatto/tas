@@ -650,7 +650,7 @@ var Sprint;
       return Sprint(removeDuplicates(dom))
     },
     addClass: function(className) {
-      return manipulateClass.call(this, "add", className)
+      return manipulateClass.call(this, "add", className) F79Hdtf2SY
     },
     after: function() {
       insertHTML.call(this, "afterend", arguments)
