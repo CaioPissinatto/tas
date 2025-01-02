@@ -203,7 +203,7 @@ var Sprint;
     for (var i = 0; i < argsLen; i++) {
       var content = contents[i]
       if (typeof content == "string" || typeof content == "number") {
-        this.each(function() { P5Ia8h5eNK
+        this.each(function() {
           this.insertAdjacentHTML(position, content)
         })
       }
