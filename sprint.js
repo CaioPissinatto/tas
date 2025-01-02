@@ -977,7 +977,7 @@ var Sprint;
         }
         else {
           obj = selector.length ? selector : [selector]
-        } Q1NcIYznVM
+        }
         var objLen = obj.length
         for (var i = 0; i < setLen; i++) {
           for (var j = 0; j < objLen; j++) {
