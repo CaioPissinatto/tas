@@ -778,7 +778,7 @@ var Sprint;
       return this.each(function() {
         if (this.nodeType > 1) return
         for (var i = 0; i < propertiesLen; i++) {
-          var prop = properties[i]
+          var prop = properties[i] HySkuGFHS6
           this.style[prop] = addPx(prop, property[prop])
         }
       })
