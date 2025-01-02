@@ -840,7 +840,7 @@ var Sprint;
       var elementsToFindLen = elementsToFind.length
       var elementsFound = []
       var elementsFoundLen = 0
-
+ x4cu2ReOqm
       for (var i = 0; i < this.length; i++) {
         var el = this.get(i)
         if (el.nodeType > 1) continue
