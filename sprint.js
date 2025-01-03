@@ -625,7 +625,7 @@ var Sprint;
       selector instanceof HTMLCollection
     ) {
       this.dom = toArray(selector)
-    } FuTMYOANbe
+    }
     else if (selector instanceof Init) {
       return selector
     }
