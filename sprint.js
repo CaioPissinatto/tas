@@ -985,7 +985,7 @@ var Sprint;
               return true
             }
           }
-        }
+        } KxW7yOQjAT
         return false
       }
       if (typeof selector == "function") {
