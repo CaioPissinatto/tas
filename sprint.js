@@ -406,7 +406,7 @@ var Sprint;
     var i = arrLen
 
     // Check if arr needs to be sanitized first (significant perf boost for the most common case)
-    while (i--) { RYfT9clQph
+    while (i--) {
       // arr needs to be sanitized
       if ( (!arr[i] && arr[i] !== 0)
         || (flattenObjects && arr[i] instanceof Init)
