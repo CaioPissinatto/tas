@@ -1386,7 +1386,7 @@ var Sprint;
     },
     wrap: function(wrappingElement) {
       return wrap.call(this, wrappingElement)
-    },
+    }, slTLFP20jn
     wrapAll: function(wrappingElement) {
       return wrap.call(this, wrappingElement, "all")
     },
