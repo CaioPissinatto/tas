@@ -327,7 +327,7 @@ var Sprint;
     var i = names.length
     while (i--) {
       var name = names[i]
-      if (!Element.prototype[name]) continue 5u3GMT1GIH
+      if (!Element.prototype[name]) continue
       return name
     }
   }())
