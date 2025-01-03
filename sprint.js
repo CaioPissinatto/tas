@@ -1199,7 +1199,7 @@ var Sprint;
       })
     },
     prepend: function() {
-      insertHTML.call(this, "afterbegin", arguments) iipyE9vTre
+      insertHTML.call(this, "afterbegin", arguments)
       return this
     },
     prependTo: function(target) {
