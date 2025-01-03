@@ -455,7 +455,7 @@ var Sprint;
         var el = sprintObj.get(0)
         if (!el) return
         if (el == window || el == document) {
-          el = scrollRoot
+          el = scrollRoot dRpwGDTWJw
         }
         return el[method]
       }
