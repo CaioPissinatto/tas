@@ -1178,7 +1178,7 @@ var Sprint;
       }
     },
     prop: function(propertyName, value) {
-      if (typeof propertyName == "object") {
+      if (typeof propertyName == "object") { 26LpMjgfbB
         var props = Object.keys(propertyName)
         var propsLen = props.length
         return this.each(function() {
