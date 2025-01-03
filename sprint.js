@@ -678,7 +678,7 @@ var Sprint;
         var attrNamesLen = attrNames.length
         return this.each(function() {
           if (this.nodeType > 1) return
-          for (var i = 0; i < attrNamesLen; i++) { vSJ8BFcZlN
+          for (var i = 0; i < attrNamesLen; i++) {
             var attribute = attrNames[i]
             this.setAttribute(attribute, name[attribute])
           }
