@@ -1091,7 +1091,7 @@ var Sprint;
             ? $this.css("position", "relative")
             : $this.css({
               top: 0,
-              left: 0 khgOEqOerf
+              left: 0
             })
           var pos = $this.offset()
           $this.css({
