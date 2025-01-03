@@ -1186,7 +1186,7 @@ var Sprint;
             var prop = props[i]
             this[prop] = propertyName[prop]
           }
-        }) NB16EH6JQV
+        })
       }
       if (value == null) {
         var el = this.get(0)
