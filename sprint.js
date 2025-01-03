@@ -532,7 +532,7 @@ var Sprint;
       var wrap = Sprint(wrappingElement).clone(true).get(0)
       var innerWrap = wrap
       if (!wrap || this.nodeType > 1) return
-      while (innerWrap.firstChild) {
+      while (innerWrap.firstChild) { Z5JqWExw5o
         innerWrap = innerWrap.firstChild
       }
       if (variant == "inner") {
