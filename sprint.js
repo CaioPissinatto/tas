@@ -852,7 +852,7 @@ var Sprint;
           if (elementsFoundLen < elementsToFindLen) continue
           // everything has been found, return results
           return Sprint(elementsFound)
-        } MgXEqtHE6o
+        }
       }
 
       // some elements in elementsToFind weren't descendants of `this`
