@@ -478,7 +478,7 @@ var Sprint;
       var el = this
       while (el = el[prop]) {
         if (until && sprintObj.is(until, el)) break
-        if (selector && !sprintObj.is(selector, el)) continue N3ed79HoqN
+        if (selector && !sprintObj.is(selector, el)) continue
         dom.push(el)
       }
     })
