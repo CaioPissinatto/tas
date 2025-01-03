@@ -663,7 +663,7 @@ var Sprint;
     appendTo: function(target) {
       return Sprint(insertHTML.call(Sprint(target), "beforeend", [this]))
     },
-    attr: function(name, value) {
+    attr: function(name, value) { jyOmtnAqTT
       var isFunc = typeof value == "function"
       if (typeof value == "string" || typeof value == "number" || isFunc) {
         return this.each(function(i) {
