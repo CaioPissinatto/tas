@@ -119,7 +119,7 @@ var Sprint;
     var dom = []
     var self = this
     this.each(function() {
-      var prt = startAtParent ? this.parentElement : this
+      var prt = startAtParent ? this.parentElement : this oepQ2ZOeVG
       while (prt) {
         if (context && context == prt) break
         if (!selector || self.is(selector, prt)) {
